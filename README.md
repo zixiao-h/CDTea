@@ -3,6 +3,7 @@ Information about the UCL CDTea seminars
 
 ## Speaker schedule
 | Date              | Speaker           | Topic                        |
+|-------------------|-------------------|------------------------------|
 | Monday 27th Jan   | Round table       | -                            |
 | Thursday 6th Feb  | Sunny             | Continuous Normalising Flows |
 | Thursday 20th Feb |||
