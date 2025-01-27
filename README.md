@@ -1,5 +1,4 @@
 # CDTea
-Information about the UCL CDTea seminars
 
 ## Schedule
 Unless otherwise stated CDTea is held in E3/E7 in the Physics building from 10:00-11:00
